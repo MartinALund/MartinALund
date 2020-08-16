@@ -13,5 +13,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/martin-alexander-lund-8063b35a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martin-alexander-lund-8063b35a" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8541764/martin-lund" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/8541764/martin-lund" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/8541764/martin-lund" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8541764/martin-lund" height="30" width="30" /></a>
 </p>
