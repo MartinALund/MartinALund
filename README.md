@@ -47,16 +47,10 @@
                   
 <h1 align="center">Github stats</h1>
 
-<table>
-    <tr>
-        <td>
-            <img style="width=50%;" src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" />
-        </td>
-        <td>
-            <img style="width=50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html&theme=onedark"/>
-        </td>
-    </tr>
-</table>
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true&count_private=true&theme=onedark&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html&theme=onedark"/>
+</div>
 
 <h1 align="center">External profiles</h1>
 <div>
