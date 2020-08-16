@@ -53,3 +53,12 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html" />
 </a>
+
+
+<h1 align="center">External profiles</h1>
+<div>
+    <ul>
+      <li><a href="https://linkedin.com/in/martin-alexander-lund-8063b35a">LinkedIn</li>
+      <li><a href="https://stackoverflow.com/users/8541764/martin-lund">Stack overflow</li>
+    </ul>
+</div>
