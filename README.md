@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer working in the financial sector</h3>
 
 <h2> Primary competences</h2>
-  <ul>
+  <ul style="display: inline-block;">
     <li>Spring Boot <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> </li>
     <li>Java <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> </li>
     <li>Jenkins <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="20" height="20"/> </li>
@@ -13,14 +13,14 @@
   </ul>
       
 <h2> Secondary competences</h2>
-  <ul>
+  <ul style="display: inline-block;">
     <li>Angular 2 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> </li>
     <li>Typescript <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </li>
       <li>Docker <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </li>
   </ul>
 
 <h2> Want to learn technologies</h2>
-  <ul>
+  <ul style="display: inline-block;">
     <li>Flutter <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </li>
     <li>Dart <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/> </li>
     <li>Python <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="jenkins" width="20" height="20"/> </li>
