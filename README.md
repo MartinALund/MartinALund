@@ -13,7 +13,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&layout=compact&hide=html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html" />
 </a>
 
 <p align="center">
