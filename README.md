@@ -47,18 +47,5 @@
                   
 <h1 align="center">Github stats</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html" />
-</a>
-
-
-<h1 align="center">External profiles</h1>
-<div>
-    <ul>
-      <li><a href="https://linkedin.com/in/martin-alexander-lund-8063b35a">LinkedIn</li>
-      <li><a href="https://stackoverflow.com/users/8541764/martin-lund">Stack overflow</li>
-    </ul>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html"/>
