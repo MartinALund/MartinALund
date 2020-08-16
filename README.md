@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer working in the financial sector</h3>
 
 
-<table style = "width:100%" >
+<table align="center" style = "width:100%" >
     <tr>
         <td>
             <h2>Primary competences</h2>
