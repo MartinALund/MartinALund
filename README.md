@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Martin Lund</h1>
 <h3 align="center">A passionate developer working in the financial sector</h3>
+<br>
 
-
+<h1 align="center">Competences & interests</h1>
 <table align="center">
     <tr>
         <td>
