@@ -26,19 +26,9 @@
     <li>Python <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="jenkins" width="20" height="20"/> </li>
   </ul>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html" />
-</a>
-
-<br>
-
 <h2>External profiles</h2>
 <ul>
   <li><a href="https://linkedin.com/in/martin-alexander-lund-8063b35a">LinkedIn</li>
   <li><a href="https://stackoverflow.com/users/8541764/martin-lund">Stack overflow</li>
 </ul>
-
 
