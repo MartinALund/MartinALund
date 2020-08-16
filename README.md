@@ -47,5 +47,23 @@
                   
 <h1 align="center">Github stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html"/>
+<table>
+    <tr>
+        <td>
+            <img style="width=50%;" src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true&count_private=true" />
+        </td>
+        <td>
+            <img style="width=50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html"/>
+        </td>
+    </tr>
+</table>
+
+<h1 align="center">External profiles</h1>
+<div>
+    <ul>
+      <li><a href="https://linkedin.com/in/martin-alexander-lund-8063b35a">LinkedIn</li>
+      <li><a href="https://stackoverflow.com/users/8541764/martin-lund">Stack overflow</li>
+    </ul>
+</div>
+
+
