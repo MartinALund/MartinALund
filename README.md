@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Lund</h1>
-<h3 align="center">A passionate developer working in financial tech</h3>
+<h3 align="center">A passionate developer working in the financial sector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinalund" alt="martinalund" /> </p>
 
