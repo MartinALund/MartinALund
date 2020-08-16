@@ -50,10 +50,10 @@
 <table>
     <tr>
         <td>
-            <img style="width=50%;" src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true&count_private=true" />
+            <img style="width=50%;" src="https://github-readme-stats.vercel.app/api?username=martinalund&show_icons=true&count_private=true&theme=onedark" />
         </td>
         <td>
-            <img style="width=50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html"/>
+            <img style="width=50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinalund&hide=html&theme=onedark"/>
         </td>
     </tr>
 </table>
