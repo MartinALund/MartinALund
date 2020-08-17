@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <h1 align="center">Hi 👋, I'm Martin Lund</h1>
 <h3 align="center">A passionate developer working in the financial sector</h3>
 <br>
@@ -59,5 +61,11 @@
       <li><a href="https://stackoverflow.com/users/8541764/martin-lund">Stack overflow</li>
     </ul>
 </div>
+
+
+
+<a href="https://stackoverflow.com/users/8541764/martin-lund"><img src="https://stackoverflow.com/users/flair/8541764.png" width="208" height="58" alt="profile for Martin Lund at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Martin Lund at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="da_DK" data-type="horizontal" data-theme="light" data-vanity="martin-alexander-lund-8063b35a"><a class="LI-simple-link" href='https://dk.linkedin.com/in/martin-alexander-lund-8063b35a?trk=profile-badge'>Martin Alexander Lund</a></div>
 
 
