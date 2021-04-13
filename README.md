@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Lund</h1>
-<h3 align="center">A passionate developer and a full time dad - working in the financial sector</h3>
+<h3 align="center">A passionate developer working in the financial sector</h3>
 <br>
 
 <h1 align="center">Competences & interests</h1>
