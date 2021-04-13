@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Lund</h1>
-<h3 align="center">A passionate developer working in the financial sector</h3>
+<h3 align="center">A passionate developer and a full time dad - working in the financial sector</h3>
 <br>
 
 <h1 align="center">Competences & interests</h1>
@@ -19,7 +19,7 @@
         <td>
             <ul>
               <li>Spring Boot <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> </li>
-              <li>Java <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> </li>
+              <li>Java <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg" alt="java" width="20" height="20"/> </li>
               <li>Jenkins <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="20" height="20"/> </li>
               <li>Kubernetes <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/> </li>
               <li>C# <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </li>
